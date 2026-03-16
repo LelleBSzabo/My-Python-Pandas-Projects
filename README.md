@@ -64,5 +64,3 @@ This project developed skills in:
 - https://colab.research.google.com/drive/1FcK5750Yr0t-N4tMZFHbJYxt6JG_-Wsm?usp=sharing
 - https://colab.research.google.com/drive/122smKMxDC-50a74KdSYDTElUTglzdWC5?usp=sharing
 - https://colab.research.google.com/drive/1PrErOt1atf5rwRR8lfrE4kbbJV8mPCg-?usp=sharing
-
-- 
