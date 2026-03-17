@@ -59,8 +59,16 @@ This project developed skills in:
 - Presenting findings visually using Python libraries
 - Performing end-to-end analysis on retail and sales data
 
-## Project Links
+## Code Examples
 
-- https://colab.research.google.com/drive/1FcK5750Yr0t-N4tMZFHbJYxt6JG_-Wsm?usp=sharing
-- https://colab.research.google.com/drive/122smKMxDC-50a74KdSYDTElUTglzdWC5?usp=sharing
-- https://colab.research.google.com/drive/1PrErOt1atf5rwRR8lfrE4kbbJV8mPCg-?usp=sharing
+<img width="432" height="193" alt="image" src="https://github.com/user-attachments/assets/20dd47fc-fc47-4fc6-8bcd-57fa75086b9c" />
+
+---
+
+<img width="432" height="108" alt="image" src="https://github.com/user-attachments/assets/d6e6dc6a-0485-4406-974b-1fbd29737f34" />
+
+---
+
+<img width="600" height="222" alt="image" src="https://github.com/user-attachments/assets/23de1a17-1f78-425c-830d-f1f4777fd0b5" />
+
+---
